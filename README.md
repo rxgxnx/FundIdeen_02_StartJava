@@ -1,4 +1,3 @@
-FundIdeen_01_SimpleSearch
+FundIdeen_02_Start_Java
 =========================
-In diesem ersten Projekt wird eine einfache Programme demonstriert die durch die
-Zeilen eines Buches blättert.
+In diesem zweiten Projekt werden einfache Programmen demonstriert.
