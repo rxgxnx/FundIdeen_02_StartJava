@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c6e5398-3117-4a86-b063-ce16e5d68853" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FundIdeen_02_StartJava.ipr" afterPath="$PROJECT_DIR$/FundIdeen_02_StartJava.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FundIdeen_02_StartJava.iws" afterPath="$PROJECT_DIR$/FundIdeen_02_StartJava.iws" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/Main.java" afterPath="$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/Main.java" />
     </list>
     <ignored path="FundIdeen_02_StartJava.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="4c6e5398-3117-4a86-b063-ce16e5d68853" time="1384372262979" ignored="false" />
-    <file path="/Main.java" changelist="4c6e5398-3117-4a86-b063-ce16e5d68853" time="1384372331114" ignored="false" />
+    <file path="/Dummy.txt" changelist="4c6e5398-3117-4a86-b063-ce16e5d68853" time="1384372356243" ignored="false" />
+    <file path="/Main.java" changelist="4c6e5398-3117-4a86-b063-ce16e5d68853" time="1384372701879" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
       </breakpoint>
     </breakpoint_any>
     <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true">
-      <breakpoint url="file://$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/Main.java" line="22" class="phWGinfo.fundIdeen_02.Main" package="phWGinfo.fundIdeen_02">
+      <breakpoint url="file://$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/Main.java" line="32" class="phWGinfo.fundIdeen_02.Main" package="phWGinfo.fundIdeen_02">
         <option name="ENABLED" value="true" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
@@ -90,7 +88,7 @@
       <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="8" selection-start="226" selection-end="226" vertical-scroll-proportion="0.4074703">
+            <state line="27" column="39" selection-start="510" selection-end="510" vertical-scroll-proportion="0.82857144">
               <folding />
             </state>
           </provider>
@@ -372,7 +370,11 @@
       <created>1383820739799</created>
       <updated>1383820739799</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="mit Modul.">
+      <created>1384372359770</created>
+      <updated>1384372359770</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -390,7 +392,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -398,7 +400,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18541034" sideWeight="0.6704362" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32956383" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -489,7 +491,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/phWGinfo/fundIdeen_02/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="226" selection-end="226" vertical-scroll-proportion="0.4074703">
+        <state line="27" column="39" selection-start="510" selection-end="510" vertical-scroll-proportion="0.82857144">
           <folding />
         </state>
       </provider>
